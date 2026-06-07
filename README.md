@@ -1,16 +1,18 @@
-## Hi there 👋
+# Hi, I'm Atsadawut 👋
 
-<!--
-**ManYaiMark/ManYaiMark** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+A Data Science & Software Innovation student at Ubon Ratchathani University.
+Interested in data analysis and finding insights from real-world datasets.
 
-Here are some ideas to get you started:
+## 🛠️ Skills
+- **Languages:** Python, SQL, HTML, CSS, JavaScript
+- **Data:** pandas, numpy, matplotlib, seaborn, yfinance
+- **Tools:** Git, Google Colab, Power BI, Figma, MySQL
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📂 Projects
+| Project | Description | Tools |
+|---------|-------------|-------|
+| [sp500-survival-analysis](https://github.com/ManYaiMark/sp500-survival-analysis) | Analyzing which companies and sectors survived longest in S&P 500 (1975–2026) | Python, pandas, seaborn |
+| [student-mental-health-eda](https://github.com/ManYaiMark/student-mental-health-eda) | EDA on university students' mental health and academic performance | Python, pandas, KMeans |
+
+## 📫 Contact
+- 📧 atasdwut123@gmail.com
