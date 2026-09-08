@@ -32,5 +32,9 @@ Passionate about Data Analysis and IT/Web Development (Python & Django).
 | [student-mental-health-eda](https://github.com/ManYaiMark/student-mental-health-eda) | EDA on university students' mental health and academic performance | Python, pandas, KMeans |
 
 
+## LeetCode
+https://leetcode.com/u/aR2rfq1gdh/
+
+
 ## 📫 Contact
 - 📧 atasdwut123@gmail.com
